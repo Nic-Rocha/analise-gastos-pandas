@@ -1,6 +1,8 @@
-# Dashboard de gastos
+# 📊 Dashboard de gastos
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Uso](https://img.shields.io/badge/uso-educacional-blue)
 
-## Descrição
+## 📃Descrição
 O projeto consiste em uma leitura de despesas de um arquivo csv do excel pelo pandas. Para que apartir dele possa ler, organizar e analisar de forma rápida e eficaz.
 
 ## 📌 Índice
@@ -12,7 +14,7 @@ O projeto consiste em uma leitura de despesas de um arquivo csv do excel pelo pa
 - Rodando os testes;
 - Autor.
 
-## Sobre o projeto
+## 🖋 Sobre o projeto
 Este projeto nasceu como treinamento de conhecimentos adiqueridos ao estudar as ferramentas usadas no mesmo. Objetivo de organizar despesas pessoais de forma simples, sem depender de planilhas complexas. Ele lê um arquivo CSV com lançamentos financeiros e gera relatórios agrupados por categoria e por mês, com testes automatizados garantindo a confiabilidade dos cálculos.
 
 ## Funcionalidades:
@@ -82,6 +84,8 @@ dashboard-gastos/
   python test_dashboard.py
   ```
 resultado esperado:
+<img width="973" height="132" alt="Captura de tela 2026-07-31 181256" src="https://github.com/user-attachments/assets/abfa3110-ab86-44da-8f84-07eecef326e5" />
+
 
 
   ## Autor
